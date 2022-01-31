@@ -1,0 +1,10 @@
+当前浏览器不能支持视频播放，可下载最新的QQ浏览器或者安装FLASH即可播放
+
+
+            (function(){
+               var option ={"auto_play":"0","file_id":"387702295455570504","app_id":"1253985869","width":1920,"height":1080,"https":1};
+               new qcVideo.Player(
+                       "id_video_container_387702295455570504",
+                       option
+                   );
+             })()
