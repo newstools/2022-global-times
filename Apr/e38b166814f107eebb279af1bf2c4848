@@ -1,0 +1,12 @@
+当前浏览器不能支持视频播放，可下载最新的QQ浏览器或者安装FLASH即可播放
+
+
+            (function(){
+               var option ={"auto_play":"0","file_id":"387702298834052632","app_id":"1253985869","width":1920,"height":1080,"https":1};
+               new qcVideo.Player(
+                       "id_video_container_387702298834052632",
+                       option
+                   );
+             })()
+ 
+China successfully sent a new civilian remote sensing satellite Gaofen-3 03 into preset orbit via a Long March-4C carrier rocket at Jiuquan Satellite Launch Center in Northwest China's Gansu Province on Thursday. The Gaofen-3 03 is a new service satellite that implements China's National Medium to Long-Term Civilian Space Infrastructure Development Plan (2015-2025), and it has the same technology status with the previous Gaofen-3 02 satellite and carries mainly the C-band Synthetic Aperture Radar (SAR), the Global Times learned from the China National Space Administration (CNSA) on Thursday. According to the CNSA, the new satellite will constitute a constellation with the Galfen-3 and Gaofen-3 02 to offer a multi-polarization imaging service for both land and sea with the highest resolution of one meter and a revisiting service for one single area within a day.Pang Zhihao, a Beijing-based senior space expert and a former analyst at the China Academy of Space Technology - the developer of the Gaofen-3 03 satellite, told the Global Times on Thursday that multi-polarization imaging service would mean the satellite would possess 12 imaging modes, which is the most in the world, providing not only the traditional stripe and scanning imaging but also the maritime application-oriented wave imaging as well as global monitoring imaging. Pang explained the revisiting resolution of the new satellite would enable it to capture the image of the same region within a day, which is a great advancement. In comparison, the old satellites would take four to five days to achieve the same feat, he said. It would further boost China's radar satellites' land and sea monitoring capability and meet the application requirements including safeguarding maritime rights and interests, maritime disaster prevention and alleviation, maritime scientific researches as well as for environmental protection and agricultural purposes. Thursday's mission marked the 414 orbital launch missions for the Long March carrier rocket family and it was the fourth flight for the Long March-4C rocket, which was developed by the Shanghai Academy of Spacecraft Technology.
